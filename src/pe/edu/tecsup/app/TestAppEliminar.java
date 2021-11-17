@@ -9,7 +9,7 @@ public class TestAppEliminar {
 			
 			CategoriaService categoriaService = new CategoriaService();
 			
-			Integer id = 9;
+			Integer id = 10;
 			
 			categoriaService.eliminar(id);
 			

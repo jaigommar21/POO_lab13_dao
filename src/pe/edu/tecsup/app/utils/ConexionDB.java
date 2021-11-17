@@ -1,4 +1,4 @@
-package pe.edu.tecsup.app.uitls;
+package pe.edu.tecsup.app.utils;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

@@ -8,7 +8,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 import pe.edu.tecsup.app.entities.Categoria;
-import pe.edu.tecsup.app.uitls.ConexionDB;
+import pe.edu.tecsup.app.utils.ConexionDB;
 
 public class CategoriaDAOImpl implements CategoriaDAO {
 

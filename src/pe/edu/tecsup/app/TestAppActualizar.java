@@ -9,7 +9,7 @@ public class TestAppActualizar {
 			
 			CategoriaService categoriaService = new CategoriaService();
 			
-			Integer id = 10;
+			Integer id = 11;
 			
 			String nombre = "CAMBAIADO : Tablets";
 			

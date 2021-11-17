@@ -13,7 +13,7 @@ public class TestAppBuscar {
 		
 			CategoriaService categoriaService = new CategoriaService();
 			
-			String nombre = "Memorias";
+			String nombre = "Procesador";
 			
 			List<Categoria> categorias = categoriaService.buscarPorNombre(nombre);
 			
