@@ -5,7 +5,7 @@ import java.util.List;
 import pe.edu.tecsup.app.entities.Categoria;
 import pe.edu.tecsup.app.services.CategoriaService;
 
-public class TestAppListar {
+public class TestAppListar { 
 
 	public static void main(String[] args) {
 
